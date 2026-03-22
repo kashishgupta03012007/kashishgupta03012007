@@ -1,4 +1,3 @@
-https://github.com/kashishgupta03012007/c--oops-calculator
 ![GitHub Banner](BANNER.jpeg)
 
 # 👋 About Me
