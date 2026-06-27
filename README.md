@@ -9,18 +9,23 @@ I'm a first-year BCA student 🎓 and Digital Marketing Enthusiast 📊, passion
 ## Programming
 
 🌐 **C Source Point** – Website presenting C programming examples (HTML, CSS, JavaScript)  
+
 🔗 https://kashishgupta03012007.github.io/c-source-point/
 
 📂 **C Source File** – Practice collection of C programs  
+
 🔗 https://github.com/kashishgupta03012007/c-source-file/
 
 🌐 **C++ Source Point** – Website introducing OOP and C++ concepts with examples 
+
 🔗 https://kashishgupta03012007.github.io/c-programming/
 
 📂 **C++ Source File** – Collection of C++ programs based on Object-Oriented Programming 
+
 🔗 https://github.com/kashishgupta03012007/c--oops-source-file
 
 📂 **Calculator (C++ OOP)** – Calculator application developed using OOP principles 🧮  
+
 🔗 https://github.com/kashishgupta03012007/c--oops-calculator
 
 ## Web Design
@@ -30,6 +35,7 @@ I'm a first-year BCA student 🎓 and Digital Marketing Enthusiast 📊, passion
 🌐 **Moonlight Cafe** – Cafe website designed using HTML, CSS, and JavaScript ☕ (coming soon...)
 
 🌐 **Success Point** – Coaching institute website built with HTML, CSS, and JavaScript 🎓 
+
 🔗 https://kashishgupta03012007.github.io/SUCCESS-POINT/
 
 
