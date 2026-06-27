@@ -12,7 +12,10 @@ I'm a first-year BCA student 🎓 and Digital Marketing Enthusiast 📊, passion
 🔗 https://kashishgupta03012007.github.io/c-source-point/
 
 📂 **C Source File** – Practice collection of C programs  
-🔗 https://github.com/kashishgupta03012007/c-source-file
+🔗 https://github.com/kashishgupta03012007/c-source-file/
+
+🌐**Success Point**- Website presenting a coaching institute ( html,css,javascript)
+🔗 https://kashishgupta03012007.github.io/SUCCESS-POINT/
 
 🌐 **C++ Source Point** – Website introducing OOP and C++ concepts with examples (uploading soon...)
 
